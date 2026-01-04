@@ -26,9 +26,10 @@ on:
         required: true
         type: choice
         options:
+          - v25.11
           - v25.08
           - main
-        default: v25.08
+        default: v25.11
 
       branch:
         description: 'Branch'
