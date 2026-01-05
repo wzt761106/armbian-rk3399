@@ -13,5 +13,6 @@
 | yskj | LPDDR4 | TM16G32MD4LDA1-I4 | - |
 | dg3399 | DDR3 | H5TQ4G63CFR-RDC | AP6212 |
 | h339pc | DDR3 | PE025-125 | K019-CW43-DW |
+| fine3399a | LPDDR4 | S5RG2G20CMS-CGCJ | ap6236 |
 
 DDR Part Number* : Different hardware versions may have different Part Numbers.
