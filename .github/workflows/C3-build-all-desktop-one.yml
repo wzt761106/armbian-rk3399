@@ -69,6 +69,7 @@ jobs:
           - yskj
           - dg3399
           - h339pc
+          - fine3399a
         release:
           - bookworm
           - jammy

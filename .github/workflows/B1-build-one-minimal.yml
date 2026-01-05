@@ -19,6 +19,7 @@ on:
           - yskj
           - dg3399
           - h339pc
+          - fine3399a
         default: "rk-sapphire"
 
       version:
